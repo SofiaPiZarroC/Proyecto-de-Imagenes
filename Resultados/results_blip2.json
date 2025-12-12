@@ -1,0 +1,993 @@
+[
+  {
+    "image_path": "/content/drive/MyDrive/Imágenes Proyecto/IC/01.jpg",
+    "model": "BLIP2-OPT-2.7B",
+    "task": "IC",
+    "annotations": [
+      "A Chilean 500 peso coin on a banknote.",
+      "A gold-colored 500 peso coin from 2002 sits on top of a Chilean banknote. The coin displays its denomination clearly with decorative laurel branches around the edge.",
+      "A circular bi-metallic Chilean coin showing 500 PESOS denomination dated 2002 rests on a greenish banknote with visible security features and patterns. The coin features prominent numbers with ornamental laurel wreaths encircling the text, showing signs of circulation wear. The underlying currency displays intricate printing details, with the image captured from directly above under natural lighting conditions."
+    ],
+    "prompt_outputs": [
+      {
+        "prompt": "[no prompt - free description]",
+        "output": "a 500 peso coin sitting on top of a bank note\n",
+        "scores": {
+          "score_a": 0.11094660471566163,
+          "score_b": 0.5555555555555555
+        }
+      },
+      {
+        "prompt": "a photo of",
+        "output": "a 500 peso coin sitting on top of a bill",
+        "scores": {
+          "score_a": 0.07176076472605042,
+          "score_b": 0.317525397476197
+        }
+      },
+      {
+        "prompt": "a detailed image of",
+        "output": "a 500 peso coin",
+        "scores": {
+          "score_a": 1.8613396041775065e-07,
+          "score_b": 0.05616103202846975
+        }
+      }
+    ]
+  },
+  {
+    "image_path": "/content/drive/MyDrive/Imágenes Proyecto/IC/02.jpg",
+    "model": "BLIP2-OPT-2.7B",
+    "task": "IC",
+    "annotations": [
+      "Railroad tracks extending into the distance.",
+      "Abandoned railroad tracks stretch across an arid desert landscape under blue skies with white clouds. Rusted industrial structures are visible on the right side.",
+      "A straight section of deteriorating railway tracks runs through a sparse, high-altitude desert environment with scattered low vegetation. The perspective view shows the tracks receding toward distant mountains under a partly cloudy sky. On the right side, weathered orange-brown metal structures or train car remains stand as remnants of past rail activity. The desolate setting suggests this is an abandoned railway line in a remote area, possibly in the Andean altiplano region, with wooden railroad ties visible between the rusted rails."
+    ],
+    "prompt_outputs": [
+      {
+        "prompt": "[no prompt - free description]",
+        "output": "a train track in the middle of nowhere\n",
+        "scores": {
+          "score_a": 0.02777619034011792,
+          "score_b": 0.14084507042253522
+        }
+      },
+      {
+        "prompt": "a photo of",
+        "output": "a train track in the middle of nowhere",
+        "scores": {
+          "score_a": 0.0037590985869139244,
+          "score_b": 0.04132231404958678
+        }
+      },
+      {
+        "prompt": "a detailed image of",
+        "output": "a train track in the desert",
+        "scores": {
+          "score_a": 4.0456271214844163e-07,
+          "score_b": 0.03717472118959108
+        }
+      }
+    ]
+  },
+  {
+    "image_path": "/content/drive/MyDrive/Imágenes Proyecto/IC/03.jpg",
+    "model": "BLIP2-OPT-2.7B",
+    "task": "IC",
+    "annotations": [
+      "An elderly hand wearing a silver ring with blue stones.",
+      "A close-up of an aged hand with visible wrinkles and veins displays a decorative silver ring featuring blue stone inlays. The background shows blurred indoor setting.",
+      "An intimate photograph captures an elderly person's weathered hand with prominent skin texture, age spots, and pronounced veins characteristic of advanced age. The hand wears an ornate sterling silver ring with geometric blue stone or enamel inlay work, possibly turquoise or lapis, arranged in a modernist design on the ring finger. The background is intentionally out of focus, showing neutral indoor tones, drawing all attention to the detailed textures of aging skin contrasted with the crafted jewelry piece. The lighting emphasizes the three-dimensional quality of both the hand's surface and the ring's raised settings."
+    ],
+    "prompt_outputs": [
+      {
+        "prompt": "[no prompt - free description]",
+        "output": "a close up of a woman's hand with a ring on it\n",
+        "scores": {
+          "score_a": 0.024088562704853513,
+          "score_b": 0.17857142857142858
+        }
+      },
+      {
+        "prompt": "a photo of",
+        "output": "a woman's hand with a ring on it",
+        "scores": {
+          "score_a": 0.007784892078915062,
+          "score_b": 0.1425287356321839
+        }
+      },
+      {
+        "prompt": "a detailed image of",
+        "output": "a woman's hand with a ring on it",
+        "scores": {
+          "score_a": 1.5839792942207307e-06,
+          "score_b": 0.0308641975308642
+        }
+      }
+    ]
+  },
+  {
+    "image_path": "/content/drive/MyDrive/Imágenes Proyecto/IC/04.jpg",
+    "model": "BLIP2-OPT-2.7B",
+    "task": "IC",
+    "annotations": [
+      "A sunset over the ocean with silhouetted people on the beach.",
+      "A sunset scene at the beach with the sun near the horizon casting golden light across the water. Several people stand as dark silhouettes along the shore, and birds fly in the orange sky.",
+      "A stunning golden-hour seascape captures the sun descending toward the ocean horizon, creating a brilliant glowing orb with radiating light across an orange and amber sky. The sun's reflection creates a shimmering path across the gently rippling water surface. Along the dark foreground beach, multiple human figures appear as black silhouettes, some standing and observing the sunset. Two or three birds are caught mid-flight in the sky, adding dynamic elements to the peaceful scene. The composition uses strong contrast between the bright sky and darkened foreground, typical of sunset photography, creating a contemplative and serene atmosphere."
+    ],
+    "prompt_outputs": [
+      {
+        "prompt": "[no prompt - free description]",
+        "output": "the sun is setting over the ocean\n",
+        "scores": {
+          "score_a": 0.09920519151734605,
+          "score_b": 0.17391304347826086
+        }
+      },
+      {
+        "prompt": "a photo of",
+        "output": "the sun setting over the ocean",
+        "scores": {
+          "score_a": 0.0008984566060869,
+          "score_b": 0.044247787610619475
+        }
+      },
+      {
+        "prompt": "a detailed image of",
+        "output": "the sun setting over the ocean",
+        "scores": {
+          "score_a": 3.734905716448545e-08,
+          "score_b": 0.02044989775051125
+        }
+      }
+    ]
+  },
+  {
+    "image_path": "/content/drive/MyDrive/Imágenes Proyecto/IC/05.jpg",
+    "model": "BLIP2-OPT-2.7B",
+    "task": "IC",
+    "annotations": [
+      "A field of yellow wildflowers under cloudy skies.",
+      "Vibrant yellow flowering plants, possibly mustard or canola, fill the foreground of a field beneath dramatic white and gray clouds. Green hills are visible in the distant background.",
+      "A low-angle nature photograph showcases a dense meadow of bright yellow flowering plants, likely wild mustard or similar cruciferous flowers, in full bloom. The flowers create a golden carpet effect in the foreground with their small clustered blooms and green stems. Above, a dynamic cloudscape features thick white cumulus clouds against patches of blue sky, suggesting changeable weather conditions. In the far background, dark green mountainous or hilly terrain provides depth to the composition. The image captures the contrast between the vivid yellow flowers and the moody sky, typical of spring or early summer."
+    ],
+    "prompt_outputs": [
+      {
+        "prompt": "[no prompt - free description]",
+        "output": "a field of yellow flowers under a cloudy sky\n",
+        "scores": {
+          "score_a": 0.3303164318013807,
+          "score_b": 0.7052154195011338
+        }
+      },
+      {
+        "prompt": "a photo of",
+        "output": "a field of yellow flowers",
+        "scores": {
+          "score_a": 0.0013582042014243785,
+          "score_b": 0.1522184300341297
+        }
+      },
+      {
+        "prompt": "a detailed image of",
+        "output": "a field of yellow flowers",
+        "scores": {
+          "score_a": 2.5134943217167294e-09,
+          "score_b": 0.033223684210526315
+        }
+      }
+    ]
+  },
+  {
+    "image_path": "/content/drive/MyDrive/Imágenes Proyecto/IC/06.jpg",
+    "model": "BLIP2-OPT-2.7B",
+    "task": "IC",
+    "annotations": [
+      "A man carrying a keyboard walks on a city street.",
+      "A person in white shirt and jeans carries a portable electronic keyboard across a sunny plaza. Behind him are ornate iron gates, trees, and classic architecture.",
+      "A candid street photograph captures a middle-aged man walking briskly across a concrete plaza while carrying a portable electronic keyboard or synthesizer balanced on his shoulder. He wears casual attire consisting of a white long-sleeve shirt and light blue jeans with dark shoes. The setting appears to be a public park or plaza with mature trees providing dappled shade on the pavement. Behind the subject, elaborate wrought-iron fencing with decorative patterns borders what seems to be a historic building or park entrance. The scene has a documentary quality, suggesting urban life and possibly a street musician or music teacher in transit. The lighting and shadows indicate late morning or early afternoon in what appears to be a Latin American city center."
+    ],
+    "prompt_outputs": [
+      {
+        "prompt": "[no prompt - free description]",
+        "output": "a man riding a skateboard\n",
+        "scores": {
+          "score_a": 0.04625839074220484,
+          "score_b": 0.14423076923076922
+        }
+      },
+      {
+        "prompt": "a photo of",
+        "output": "a man on a skateboard",
+        "scores": {
+          "score_a": 0.0009581320403639472,
+          "score_b": 0.03636363636363636
+        }
+      },
+      {
+        "prompt": "a detailed image of",
+        "output": "a man on a skateboard",
+        "scores": {
+          "score_a": 6.383923970970607e-12,
+          "score_b": 0.01715265866209262
+        }
+      }
+    ]
+  },
+  {
+    "image_path": "/content/drive/MyDrive/Imágenes Proyecto/IC/07.jpg",
+    "model": "BLIP2-OPT-2.7B",
+    "task": "IC",
+    "annotations": [
+      "Yellow buses arranged in an artistic installation in a city plaza.",
+      "Two yellow public transit buses are positioned at dramatic angles, appearing to lean against each other in a modern urban art installation. City buildings and a communications tower rise in the background under clear blue skies.",
+      "A public plaza displays two yellow buses arranged as an artistic installation, with one tilted and the other standing more vertically, as if they were leaning on each other. The buses show the signs ‘LAS CONDES–FLEMING 229’ and ‘ALAMEDA’, so they appear to be old public transport buses from Santiago. In the background, several tall buildings and a telecommunications tower can be seen. On the left, there is a truck with the Brinks logo, and on the right, on one of the buildings, there is a store with a white and red sign that says Ahumada. The area is surrounded by grass, and the sky is completely clear."
+    ],
+    "prompt_outputs": [
+      {
+        "prompt": "[no prompt - free description]",
+        "output": "the bus is upside down\n",
+        "scores": {
+          "score_a": 0,
+          "score_b": 0.0
+        }
+      },
+      {
+        "prompt": "a photo of",
+        "output": "a bus that is upside down",
+        "scores": {
+          "score_a": 0.00027507553436127583,
+          "score_b": 0.028011204481792718
+        }
+      },
+      {
+        "prompt": "a detailed image of",
+        "output": "a bus that is upside down",
+        "scores": {
+          "score_a": 2.2243262961143426e-09,
+          "score_b": 0.013157894736842105
+        }
+      }
+    ]
+  },
+  {
+    "image_path": "/content/drive/MyDrive/Imágenes Proyecto/IC/08.jpg",
+    "model": "BLIP2-OPT-2.7B",
+    "task": "IC",
+    "annotations": [
+      "A staircase between two dark elevator doors.",
+      "A short flight of stairs with brown and tan treads and dark handrails sits centrally between two modern elevator doors with yellow accent stripes. The interior space appears to be industrial or commercial.",
+      "A nighttime photograph taken with flash shows a brown staircase positioned at the center. In the background, there are two large double windows with yellow horizontal lines in their upper half. Behind the windows, beige pillars can be seen, and next to the staircase there is a beige refrigerator. Above the scene, upper stair structures can be seen descending from the ceiling just behind the central staircase. This main staircase has double handrails with supports at both the beginning and the end. The floor is a dark brown color."
+    ],
+    "prompt_outputs": [
+      {
+        "prompt": "[no prompt - free description]",
+        "output": "the stairs are made of wood\n",
+        "scores": {
+          "score_a": 0,
+          "score_b": 0.0
+        }
+      },
+      {
+        "prompt": "a photo of",
+        "output": "a staircase in a house",
+        "scores": {
+          "score_a": 0.00019868065808569064,
+          "score_b": 0.015624999999999998
+        }
+      },
+      {
+        "prompt": "a detailed image of",
+        "output": "a staircase in a room",
+        "scores": {
+          "score_a": 3.8421329640812916e-09,
+          "score_b": 0.022321428571428572
+        }
+      }
+    ]
+  },
+  {
+    "image_path": "/content/drive/MyDrive/Imágenes Proyecto/IC/09.jpg",
+    "model": "BLIP2-OPT-2.7B",
+    "task": "IC",
+    "annotations": [
+      "The entrance to a classical university building.",
+      "An ornate neoclassical building entrance features carved stone columns, decorative moldings, and large windows. The text \"ESCUELA DE INJENIERIA\" appears above the main doorway where two people are entering.",
+      "A historic and old building entrance can be seen, with a sign at the top that reads ESCUELA DE INJENIERIA. The entrance is supported by two large beige columns, and on each side there are antique decorative lamps. On the pillars, there are posters that appear to be announcements. In the background, a dark wooden door is visible, with two people entering through it. The building has large windows where trees and palm trees are reflected. In the lower right corner, a type of map or informational board can be seen."
+    ],
+    "prompt_outputs": [
+      {
+        "prompt": "[no prompt - free description]",
+        "output": "the building is made of stone\n",
+        "scores": {
+          "score_a": 0.03455747170954952,
+          "score_b": 0.12820512820512822
+        }
+      },
+      {
+        "prompt": "a photo of",
+        "output": "a building",
+        "scores": {
+          "score_a": 2.0500619989285993e-07,
+          "score_b": 0.015772870662460567
+        }
+      },
+      {
+        "prompt": "a detailed image of",
+        "output": "a building",
+        "scores": {
+          "score_a": 8.39258126713096e-21,
+          "score_b": 0.01076426264800861
+        }
+      }
+    ]
+  },
+  {
+    "image_path": "/content/drive/MyDrive/Imágenes Proyecto/IC/10.jpg",
+    "model": "BLIP2-OPT-2.7B",
+    "task": "IC",
+    "annotations": [
+      "A large colorful statue of a character with a dog in a park.",
+      "A whimsical public sculpture depicts an oversized cartoon-like figure with a round head wearing red clothing, standing next to a white and black dog. The statue sits on a decorated pedestal in an urban green space with buildings visible behind.",
+      "A large sculpture of the famous character Condorito can be seen, leaning on one elbow over an orange structure, accompanied by his dog Washington, who is seated. Both are placed on a pedestal with a green surface and blue edges, featuring a lighter-colored marbled effect, along with small caricatures that appear to depict other characters from the comic. The statue is located in a plaza with abundant vegetation during the daytime, with a heritage house and residential buildings in the background. Public lighting structures and overhead wiring are also visible."
+    ],
+    "prompt_outputs": [
+      {
+        "prompt": "[no prompt - free description]",
+        "output": "a statue of a man and a dog\n",
+        "scores": {
+          "score_a": 0.09684044014252693,
+          "score_b": 0.31820066334991703
+        }
+      },
+      {
+        "prompt": "a photo of",
+        "output": "a statue",
+        "scores": {
+          "score_a": 9.963337543511952e-10,
+          "score_b": 0.02570694087403599
+        }
+      },
+      {
+        "prompt": "a detailed image of",
+        "output": "a statue",
+        "scores": {
+          "score_a": 1.383702725119825e-20,
+          "score_b": 0.011086474501108647
+        }
+      }
+    ]
+  },
+  {
+    "image_path": "/content/drive/MyDrive/Imágenes Proyecto/IC/11.jpg",
+    "model": "BLIP2-OPT-2.7B",
+    "task": "IC",
+    "annotations": [
+      "Workers cleaning windows on a tall glass building.",
+      "Several window washers suspended on ropes work on the exterior of a modern glass-paneled office tower. A street with traffic and trees is visible at the building's base, with other urban structures in the background.",
+      "A photograph shows four people cleaning the large glass windows of a tall building at a significant height. Several rooms have their windows open, suggesting that the structure is likely a corporate building. Additionally, an avenue can be seen on one side, with heavy traffic —especially taxis— as well as a tree-lined sidewalk and two people crossing the street. Nearby buildings are also visible, some residential and others corporate."
+    ],
+    "prompt_outputs": [
+      {
+        "prompt": "[no prompt - free description]",
+        "output": "a tall building with a lot of windows\n",
+        "scores": {
+          "score_a": 0.06500593260343691,
+          "score_b": 0.22471910112359547
+        }
+      },
+      {
+        "prompt": "a photo of",
+        "output": "a tall building with a lot of windows",
+        "scores": {
+          "score_a": 0.0013441378199069549,
+          "score_b": 0.08356545961002786
+        }
+      },
+      {
+        "prompt": "a detailed image of",
+        "output": "a tall building with people on it",
+        "scores": {
+          "score_a": 2.7676885796289712e-05,
+          "score_b": 0.04285714285714286
+        }
+      }
+    ]
+  },
+  {
+    "image_path": "/content/drive/MyDrive/Imágenes Proyecto/IC/12.jpg",
+    "model": "BLIP2-OPT-2.7B",
+    "task": "IC",
+    "annotations": [
+      "A historic train station building with classical architecture.",
+      "The facade of Estacion Central features cream-colored neoclassical architecture with an arched entrance, decorative columns, and the station name prominently displayed. Modern commercial signage including Rogger's and Monix appears on the building.",
+      "A heritage building in beige and white tones can be seen, featuring a large title reading ‘Estación Central’ in bold, straight letters. On each side of the title there is a flag, with the one on the right positioned closer than the one on the left, and just below them a structure resembling a metal bar is visible. Inside the building, several commercial establishments can be seen; among them are Rogger’s, Monix, and a sign with the Pepsi logo. On the left side, the name of the shopping center, ‘Mall Paseo Estación,’ is visible, with a food stand with awnings located outside. On the right, a large green diagonal metal structure can be observed, and there is a heavy flow of people moving around the area."
+    ],
+    "prompt_outputs": [
+      {
+        "prompt": "[no prompt - free description]",
+        "output": "yellow building with arches\n",
+        "scores": {
+          "score_a": 0.06250434473199146,
+          "score_b": 0.22058823529411764
+        }
+      },
+      {
+        "prompt": "a photo of",
+        "output": "a building",
+        "scores": {
+          "score_a": 0,
+          "score_b": 0.01492537313432836
+        }
+      },
+      {
+        "prompt": "a detailed image of",
+        "output": "a building",
+        "scores": {
+          "score_a": 2.10737644762786e-28,
+          "score_b": 0.007347538574577516
+        }
+      }
+    ]
+  },
+  {
+    "image_path": "/content/drive/MyDrive/Imágenes Proyecto/IC/13.jpg",
+    "model": "BLIP2-OPT-2.7B",
+    "task": "IC",
+    "annotations": [
+      "Colorful fruit displayed at an outdoor market stand.",
+      "A vibrant market stall displays abundant fresh fruit including lemons, limes, oranges, and red apples arranged in plastic crates. A digital scale sits among the produce, with vendors and shoppers visible in the background.",
+      "Several market stalls can be seen, with vendors and shoppers present. Fruits such as oranges, melons, apples, tomatoes, and bananas are being sold. Different types of scales are visible, including both digital and hanging ones. The floor consists of a dirty checkered tile surface. The digital scale has a basket for placing the items to be weighed, and next to it there is a small wooden cubicle. The stall features walkways made from plastic crates and an improvised roof made of fabric or mesh."
+    ],
+    "prompt_outputs": [
+      {
+        "prompt": "[no prompt - free description]",
+        "output": "a fruit stand with boxes of oranges and lemons\n",
+        "scores": {
+          "score_a": 0.023980296761827107,
+          "score_b": 0.1111111111111111
+        }
+      },
+      {
+        "prompt": "a photo of",
+        "output": "a fruit market",
+        "scores": {
+          "score_a": 4.864440042060598e-06,
+          "score_b": 0.04132231404958678
+        }
+      },
+      {
+        "prompt": "a detailed image of",
+        "output": "a fruit market",
+        "scores": {
+          "score_a": 2.5396196278718917e-13,
+          "score_b": 0.017123287671232876
+        }
+      }
+    ]
+  },
+  {
+    "image_path": "/content/drive/MyDrive/Imágenes Proyecto/IC/14.jpg",
+    "model": "BLIP2-OPT-2.7B",
+    "task": "IC",
+    "annotations": [
+      "An illuminated carousel at night with people around it.",
+      "A vintage-style carousel glows brilliantly with hundreds of light bulbs against the dark night sky. Families and children gather around the spinning ride decorated with ornate details and mirror panels.",
+      "A magnificent, bright, and dazzling carousel stands in the middle of the night as what appears to be a temporary attraction. Multiple families and several children can be seen riding the carousel, noticeable due to the slight motion blur of the structure. Additionally, on the left side there seems to be something catching the participants' attention."
+    ],
+    "prompt_outputs": [
+      {
+        "prompt": "[no prompt - free description]",
+        "output": "a merry go round at night\n",
+        "scores": {
+          "score_a": 0.05236421927181383,
+          "score_b": 0.2662037037037037
+        }
+      },
+      {
+        "prompt": "a photo of",
+        "output": "a carousel at night",
+        "scores": {
+          "score_a": 0.00015896933989847578,
+          "score_b": 0.05136986301369863
+        }
+      },
+      {
+        "prompt": "a detailed image of",
+        "output": "a carousel at night",
+        "scores": {
+          "score_a": 2.390007360851418e-07,
+          "score_b": 0.02586206896551724
+        }
+      }
+    ]
+  },
+  {
+    "image_path": "/content/drive/MyDrive/Imágenes Proyecto/IC/15.jpg",
+    "model": "BLIP2-OPT-2.7B",
+    "task": "IC",
+    "annotations": [
+      "A person dressed as Santa Claus sitting on a motorcycle.",
+      "Santa Claus figure in full red costume with white beard sits on a large motorcycle with chrome details. The photo appears slightly blurred, suggesting motion or candid capture in dim lighting.",
+      " An unusual photograph of a man dressed as Santa Claus riding as a passenger, without a helmet, on a red and black motorcycle, alongside another person who is driving and wearing a helmet and glasses. The driver is wearing a black denim jacket, jeans, a cream-colored shirt, and a watch on what appears to be his left hand. It can be observed that they are traveling at high speed, as the particles around them appear blurred, and the landscape corresponds to a partially cloudy sunset."
+    ],
+    "prompt_outputs": [
+      {
+        "prompt": "[no prompt - free description]",
+        "output": "a man dressed as santa claus riding on a motorcycle\n",
+        "scores": {
+          "score_a": 0.32466791547509893,
+          "score_b": 0.8211575489862951
+        }
+      },
+      {
+        "prompt": "a photo of",
+        "output": "santa claus riding on a motorcycle",
+        "scores": {
+          "score_a": 0.0020015388930333666,
+          "score_b": 0.18028846153846154
+        }
+      },
+      {
+        "prompt": "a detailed image of",
+        "output": "santa claus riding a motorcycle",
+        "scores": {
+          "score_a": 3.215625580060293e-08,
+          "score_b": 0.051323360184119676
+        }
+      }
+    ]
+  },
+  {
+    "image_path": "/content/drive/MyDrive/Imágenes Proyecto/OCR/20220101_035959.jpg",
+    "model": "BLIP2-OPT-2.7B",
+    "task": "OCR",
+    "annotations": [
+      "POR ORDEN DEL SR. COMISARIO SE PROHIBE ENTRAR ARMADO Y CON SOMBRERO AL DESPACHO DE BEBIDAS",
+      "ORDEN POLICIAL FEBRERO 1932",
+      "EL METRO"
+    ],
+    "prompt_outputs": [
+      {
+        "prompt": "text:",
+        "output": "para ordenar el sistema se prohíbe el uso de drogas",
+        "scores": {
+          "score_a": 0.9,
+          "score_b": 1.0
+        }
+      },
+      {
+        "prompt": "the text says",
+        "output": "\"para ordenar el sistema se prohíbe\"",
+        "scores": {
+          "score_a": 0.9444444444444444,
+          "score_b": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "image_path": "/content/drive/MyDrive/Imágenes Proyecto/OCR/20230214_122422.jpg",
+    "model": "BLIP2-OPT-2.7B",
+    "task": "OCR",
+    "annotations": [
+      "El Museo Histórico Nacional está abierto",
+      "Entrada gratuita",
+      "Te esperamos",
+      "MUSEO HISTÓRICO NACIONAL"
+    ],
+    "prompt_outputs": [
+      {
+        "prompt": "text:",
+        "output": "el museo nacional de ciencias sociales",
+        "scores": {
+          "score_a": 0.675,
+          "score_b": 1.0
+        }
+      },
+      {
+        "prompt": "the text says",
+        "output": "el museo nacional nacional",
+        "scores": {
+          "score_a": 0.575,
+          "score_b": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "image_path": "/content/drive/MyDrive/Imágenes Proyecto/OCR/20230430_150424.jpg",
+    "model": "BLIP2-OPT-2.7B",
+    "task": "OCR",
+    "annotations": [
+      "a carnivore",
+      "Smilodon",
+      "The enormous canine teeth of the saber-toothed cat are its most obvious feature, but not all carnivores have them.",
+      "The distinguishing evolutionary feature of this group of mammals is found further back in Smilodon's mouth: a pair of scissorlike teeth on each side that are used for slicing meat.",
+      "skeleton Smilodon floridanus",
+      "(SMI-lo-don FLOR-id-anus)",
+      "(chisel tooth)",
+      "AMNH 14398, collected by University of California, 1914, Rancho La Brea, Los Angeles, California",
+      "Smilodon lived about 25,000 years ago, in the Pleistocene Epoch"
+    ],
+    "prompt_outputs": [
+      {
+        "prompt": "text:",
+        "output": "\"smilodon\"",
+        "scores": {
+          "score_a": 0.9090909090909091,
+          "score_b": 1.0
+        }
+      },
+      {
+        "prompt": "the text says",
+        "output": "\"smilodon\"",
+        "scores": {
+          "score_a": 0.9090909090909091,
+          "score_b": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "image_path": "/content/drive/MyDrive/Imágenes Proyecto/OCR/20230511_133754.jpg",
+    "model": "BLIP2-OPT-2.7B",
+    "task": "OCR",
+    "annotations": [
+      "MEMORIA HISTÓRICA fcfm",
+      "Este edificio se construyó a fines de la década de 1920 para albergar la Escuela de Arquitectura, que entre 1900 y 1943 fue parte de la Facultad de Ciencias Físicas y Matemáticas. En 1944 la Escuela de Arquitectura se transformó en una Facultad independiente, continuando su funcionamiento en este lugar hasta su traslado a la comuna de Cerrillos en 1957. Ese mismo año se trasladó al primer piso del edificio el entonces Instituto de Geología, que a partir de 1965 se constituyó formalmente como uno de los departamentos académicos de la Facultad. Entre 1958 y 1974 una parte de la Facultad de Ciencias Químicas y Farmacéuticas ocupó el segundo piso del edificio."
+    ],
+    "prompt_outputs": [
+      {
+        "prompt": "text:",
+        "output": "the hotel is located in the center of the city, in the heart of the historic center, in the heart of the city, in the heart of the city",
+        "scores": {
+          "score_a": 5.909090909090909,
+          "score_b": 9.666666666666666
+        }
+      },
+      {
+        "prompt": "the text says",
+        "output": "that the hotel is located in the center of the city",
+        "scores": {
+          "score_a": 2.1363636363636362,
+          "score_b": 3.6666666666666665
+        }
+      }
+    ]
+  },
+  {
+    "image_path": "/content/drive/MyDrive/Imágenes Proyecto/OCR/20230811_151805.jpg",
+    "model": "BLIP2-OPT-2.7B",
+    "task": "OCR",
+    "annotations": [
+      "Pequeños con grandes sentimientos",
+      "1990-2015",
+      "¿Has escuchado el dicho «ponerse en los zapatos del otro»? Esta frase nos habla de la empatía, o sea, de entender los sentimientos de las otras personas. Desde los años '80, las ilustraciones danesas nos invitan a viajar por el mundo interior de las y los niños,",
+      "enfocándose en las emociones que experimentan en sus distintas etapas. A partir de los años '90, se presta especial atención a las relaciones entre hermanos o amigos, a la visión que los niños tienen de sus padres y abuelos,",
+      "y a su desarrollo como adultos capaces de reconocer estilos de vida distintos a los suyos y de respetar las diferencias entre personas."
+    ],
+    "prompt_outputs": [
+      {
+        "prompt": "text:",
+        "output": "pequeños sistemas de estadísticas, 1990-2015",
+        "scores": {
+          "score_a": 0.9090909090909091,
+          "score_b": 1.25
+        }
+      },
+      {
+        "prompt": "the text says",
+        "output": "\"pescas con grandes sustentaciones\" in spanish",
+        "scores": {
+          "score_a": 0.7575757575757576,
+          "score_b": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "image_path": "/content/drive/MyDrive/Imágenes Proyecto/OCR/20231108_090334.jpg",
+    "model": "BLIP2-OPT-2.7B",
+    "task": "OCR",
+    "annotations": [
+      "Mujeres en profesiones sanitarias. Chile, 1834-1950",
+      "Esta exposición fotográfica es el resultado de un proyecto que propuso investigar, reconocer y rescatar el rol de las mujeres en profesiones sanitarias hasta la primera mitad del siglo XX, a través de su aparición en los registros fotográficos del Museo Nacional de Medicina.",
+      "Esta muestra visibiliza parte de la historia de la profesionalización, el trabajo, y contribución social y científica femenina en el área de la salud. Las profesionales mujeres representadas aquí son: matronas, médicas, dentistas, farmacéuticas, enfermeras, visitadoras sociales, dietistas y técnico-laborantes.",
+      "Aparte de la exposición, el proyecto contempló la elaboración del libro Mujeres en profesiones sanitarias, 1834-1950, disponible al público online con libre acceso.",
+      "01. Estudiante de enfermería de la Universidad de Chile realizando educación prenatal durante su práctica en salud pública, c.1956.",
+      "Universidad de Chile 180 años",
+      "MUSEO NACIONAL DE MEDICINA"
+    ],
+    "prompt_outputs": [
+      {
+        "prompt": "text:",
+        "output": "\"welcome to the museum of immigration, 1940-1949\"",
+        "scores": {
+          "score_a": 0.7647058823529411,
+          "score_b": 1.1666666666666667
+        }
+      },
+      {
+        "prompt": "the text says",
+        "output": "\"welcome to the museum of immigration, 1940-1949\"",
+        "scores": {
+          "score_a": 0.7647058823529411,
+          "score_b": 1.1666666666666667
+        }
+      }
+    ]
+  },
+  {
+    "image_path": "/content/drive/MyDrive/Imágenes Proyecto/OCR/20240401_124930.jpg",
+    "model": "BLIP2-OPT-2.7B",
+    "task": "OCR",
+    "annotations": [
+      "MEMORIA HISTÓRICA fcfm",
+      "En este edificio funcionó el Laboratorio de Alta Tensión que en su inicio fue parte del Instituto de Investigaciones y Ensayes Eléctricos (IIEE), antecesor del actual Departamento de Ingeniería Eléctrica. Fue construido a principios de la década de 1950 con aportes de la Empresa Nacional de Electricidad (ENDESA), la que ocupaba con oficinas y laboratorios el tercer piso del edificio. En el segundo nivel se encontraba la dirección del Instituto, en tanto que otras de sus reparticiones funcionaban en el edificio de Física. El edificio de Alta Tensión fue remodelado para crear el Laboratorio de Electrotecnologías (2002) y albergar el Centro Avanzado de Tecnología para la Minería (AMTC, 2009)."
+    ],
+    "prompt_outputs": [
+      {
+        "prompt": "text:",
+        "output": "the power of the sun in spanish",
+        "scores": {
+          "score_a": 1.3181818181818181,
+          "score_b": 2.3333333333333335
+        }
+      },
+      {
+        "prompt": "the text says",
+        "output": "that the building is located in the center of the city",
+        "scores": {
+          "score_a": 2.272727272727273,
+          "score_b": 3.6666666666666665
+        }
+      }
+    ]
+  },
+  {
+    "image_path": "/content/drive/MyDrive/Imágenes Proyecto/OCR/20240603_120302.jpg",
+    "model": "BLIP2-OPT-2.7B",
+    "task": "OCR",
+    "annotations": [
+      "EL VOTO",
+      "UNA MANO QUE EN FORMA INDIVIDUAL Y SECRETA",
+      "DEPOSITA EL VOTO EN LA URNA.",
+      "ESA SERA LA VOZ DE LA GENTE, LA MAYOR RESPONSABILIDAD DE LOS",
+      "CIUDADANOS AL ELEGIR A SUS GOBERNANTES.",
+      "MARIO TORAL",
+      "2011"
+    ],
+    "prompt_outputs": [
+      {
+        "prompt": "text:",
+        "output": "the building of the ministry of education of the republic of chile",
+        "scores": {
+          "score_a": 9.285714285714286,
+          "score_b": 6.0
+        }
+      },
+      {
+        "prompt": "the text says",
+        "output": "that this plaque is dedicated to the president of the republic",
+        "scores": {
+          "score_a": 8.714285714285714,
+          "score_b": 5.5
+        }
+      }
+    ]
+  },
+  {
+    "image_path": "/content/drive/MyDrive/Imágenes Proyecto/OCR/20250331_130243.jpg",
+    "model": "BLIP2-OPT-2.7B",
+    "task": "OCR",
+    "annotations": [
+      "fcfm",
+      "FACULTAD DE CIENCIAS FÍSICAS Y MATEMÁTICAS",
+      "UNIVERSIDAD DE CHILE",
+      "BEAUCHEF 850"
+    ],
+    "prompt_outputs": [
+      {
+        "prompt": "text:",
+        "output": "fcmm - faculdade de ciências do meio ambiente",
+        "scores": {
+          "score_a": 10.25,
+          "score_b": 8.0
+        }
+      },
+      {
+        "prompt": "the text says",
+        "output": "fcm on the side of a building",
+        "scores": {
+          "score_a": 6.5,
+          "score_b": 7.0
+        }
+      }
+    ]
+  },
+  {
+    "image_path": "/content/drive/MyDrive/Imágenes Proyecto/OCR/20250819_074858.jpg",
+    "model": "BLIP2-OPT-2.7B",
+    "task": "OCR",
+    "annotations": [
+      "Cuartel \"Manuel Antonio Matta\"",
+      "La Sexta Compañía de Bomberos de Santiago,",
+      "\"Salvadores i Guardia de Propiedad\",",
+      "rinde homenaje a quien fuera su Director Fundador",
+      "y primer Director Honorario de la Institución",
+      "Don Manuel Antonio Matta Goyenechea",
+      "con motivo del Centésimo Sexagésimo aniversario",
+      "de Fundación.",
+      "Santiago, agosto de 2023"
+    ],
+    "prompt_outputs": [
+      {
+        "prompt": "text:",
+        "output": "manuel antonio mattes",
+        "scores": {
+          "score_a": 0.4666666666666667,
+          "score_b": 1.0
+        }
+      },
+      {
+        "prompt": "the text says",
+        "output": "that manuel antonio matas was the first president of the republic of mexico",
+        "scores": {
+          "score_a": 2.0,
+          "score_b": 3.25
+        }
+      }
+    ]
+  },
+  {
+    "image_path": "/content/drive/MyDrive/Imágenes Proyecto/OCR/20250819_074905.jpg",
+    "model": "BLIP2-OPT-2.7B",
+    "task": "OCR",
+    "annotations": [
+      "DON JUAN WILLIAMS REBOLLEDO",
+      "1826 - 1910",
+      "EN ESTA CASA VIVIO Y MURIO",
+      "EL ILUSTRE ALMIRANTE, GLORIA",
+      "DE LA MARINA Y DE LA PATRIA.",
+      "VENCEDOR DE PAPUDO EN 1865",
+      "Y JEFE DE LA ESCUADRA EN LA",
+      "GUERRA DEL PACIFICO.",
+      "INSTITUTO DE",
+      "CONMEMORACION HISTORICA",
+      "1949"
+    ],
+    "prompt_outputs": [
+      {
+        "prompt": "text:",
+        "output": "for juan williams steeleld",
+        "scores": {
+          "score_a": 0.8888888888888888,
+          "score_b": 1.0
+        }
+      },
+      {
+        "prompt": "the text says",
+        "output": "juan williams steeleld",
+        "scores": {
+          "score_a": 0.9259259259259259,
+          "score_b": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "image_path": "/content/drive/MyDrive/Imágenes Proyecto/OCR/20250908_140611.jpg",
+    "model": "BLIP2-OPT-2.7B",
+    "task": "OCR",
+    "annotations": [
+      "CAMPUS BEAUCHEF:",
+      "UN PATRIMONIO QUE NOS PERTENECE A TODAS Y TODOS",
+      "¿Sabías que el campus Beauchef se encuentra en una Zona Típica reconocida por el Consejo de Monumentos Nacionales? Esta distinción reconoce su valor arquitectónico, urbanístico y simbólico, destacando su rol en la historia de la ingeniería en Chile.",
+      "El Edificio Escuela, con su notable inspiración \"Escuela de Beaux-Arts\" en su acceso principal —la entrada de la Universidad de Chile por Andrés Bello— fue construido a principios de la década de 1920. Su impresionante fachada a la entrada de la FCFM o la Iglesia de San Ignacio, reflejó en su época el auge de la ciencia y la ingeniería en Chile. Con su arquitectura de inspiración neoclásica francesa, a través de la cual se buscó replicar valores simbólicos occidentales en Chile, el campus Beauchef ha consolidado su lugar como símbolo de identidad institucional.",
+      "Este edificio representa la memoria viva de generaciones de estudiantes, académicas/os y funcionarias/os que han pasado por esta escuela. De eso, cuidarlo es también honrar nuestro propio legado.",
+      "Disfruta, celebra y cuida nuestro patrimonio",
+      "fcfm UNIVERSIDAD"
+    ],
+    "prompt_outputs": [
+      {
+        "prompt": "text:",
+        "output": "campus beauchamp",
+        "scores": {
+          "score_a": 0.9375,
+          "score_b": 1.0
+        }
+      },
+      {
+        "prompt": "the text says",
+        "output": "camp de beauchamp",
+        "scores": {
+          "score_a": 1.0,
+          "score_b": 1.5
+        }
+      }
+    ]
+  },
+  {
+    "image_path": "/content/drive/MyDrive/Imágenes Proyecto/OCR/20250908_154959.jpg",
+    "model": "BLIP2-OPT-2.7B",
+    "task": "OCR",
+    "annotations": [
+      "MEMORIA HISTÓRICA fcfm",
+      "Este edificio, construido para albergar el IDIEM, fue inaugurado el 19 de diciembre de 1952 en una ceremonia que contó con la presencia del Presidente de la República, Carlos Ibáñez del Campo, el Rector de la Universidad, Juvenal Hernández, el Decano de la Facultad de Ciencias Físicas y Matemáticas Reinaldo Harnecker y el Director del IDIEM Edmundo Thomas."
+    ],
+    "prompt_outputs": [
+      {
+        "prompt": "text:",
+        "output": "el edificio está ubicado en el centro de la ciudad de mexico",
+        "scores": {
+          "score_a": 2.5454545454545454,
+          "score_b": 4.0
+        }
+      },
+      {
+        "prompt": "the text says",
+        "output": "that it is located in the building",
+        "scores": {
+          "score_a": 1.4545454545454546,
+          "score_b": 2.3333333333333335
+        }
+      }
+    ]
+  },
+  {
+    "image_path": "/content/drive/MyDrive/Imágenes Proyecto/OCR/20250908_155938.jpg",
+    "model": "BLIP2-OPT-2.7B",
+    "task": "OCR",
+    "annotations": [
+      "MEMORIA HISTÓRICA fcfm",
+      "En este lugar funcionó el primer estudio del Canal 9 de televisión de la Universidad de Chile, que inició sus transmisiones el 4 de noviembre de 1960. Este logro fue el resultado del trabajo desarrollado por tres jóvenes ingenieros eléctricos de la FCFM, Bartolomé Dezerega, Charles Haramoto y Rodolfo Baffico, quienes en octubre de 1959 lograron obtener la primera señal de televisión inalámbrica en Chile con equipos diseñados por ellos."
+    ],
+    "prompt_outputs": [
+      {
+        "prompt": "text:",
+        "output": "bernabéu museum",
+        "scores": {
+          "score_a": 0.9545454545454546,
+          "score_b": 1.0
+        }
+      },
+      {
+        "prompt": "the text says",
+        "output": "that this is a museum dedicated to the history of spain",
+        "scores": {
+          "score_a": 2.3181818181818183,
+          "score_b": 3.6666666666666665
+        }
+      }
+    ]
+  },
+  {
+    "image_path": "/content/drive/MyDrive/Imágenes Proyecto/OCR/20250908_160638.jpg",
+    "model": "BLIP2-OPT-2.7B",
+    "task": "OCR",
+    "annotations": [
+      "MEMORIA HISTÓRICA fcfm",
+      "Los medallones a la derecha e izquierda de la parte superior de esta entrada fueron instalados al momento de inaugurar el edificio en 1922, en recuerdo de los Decanos Diego A. Torres (1894 – 1907) y Domingo V. Santa María (1907 – 1909)."
+    ],
+    "prompt_outputs": [
+      {
+        "prompt": "text:",
+        "output": "el medio de la ciudad de madrid",
+        "scores": {
+          "score_a": 1.2727272727272727,
+          "score_b": 2.3333333333333335
+        }
+      },
+      {
+        "prompt": "the text says",
+        "output": "in spanish that the building was built in the 19th century",
+        "scores": {
+          "score_a": 2.5,
+          "score_b": 3.6666666666666665
+        }
+      }
+    ]
+  }
+]

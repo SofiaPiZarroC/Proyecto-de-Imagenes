@@ -1,0 +1,309 @@
+{
+    "model": "microsoft/git-large-textcaps",
+    "task": "OCR",
+    "total_images": 15,
+    "processed_images": 15,
+    "results": {
+        "20220101_035959.jpg": {
+            "image_path": "/content/drive/MyDrive/Imagenes Proyecto/OCR/20220101_035959.jpg",
+            "manual_ocr": [
+                "POR ORDEN DEL SR. COMISARIO SE PROHIBE ENTRAR ARMADO Y CON SOMBRERO AL DESPACHO DE BEBIDAS",
+                "ORDEN POLICIAL FEBRERO 1932",
+                "EL METRO"
+            ],
+            "prompt_outputs": [
+                {
+                    "prompt": "read the text in the image",
+                    "output": "a blue sign on a white wall that says \" for order del. com \"."
+                },
+                {
+                    "prompt": "what text appears in this image",
+                    "output": "a blue sign on a white wall that says \" for order del. com \"."
+                }
+            ]
+        },
+        "20230214_122422.jpg": {
+            "image_path": "/content/drive/MyDrive/Imagenes Proyecto/OCR/20230214_122422.jpg",
+            "manual_ocr": [
+                "El Museo Histórico Nacional está abierto",
+                "Entrada gratuita",
+                "Te esperamos",
+                "MUSEO HISTÓRICO NACIONAL"
+            ],
+            "prompt_outputs": [
+                {
+                    "prompt": "read the text in the image",
+                    "output": "a large sign on a building that says \" el museum \"."
+                },
+                {
+                    "prompt": "what text appears in this image",
+                    "output": "a large sign on a building that says \" el museum \"."
+                }
+            ]
+        },
+        "20230430_150424.jpg": {
+            "image_path": "/content/drive/MyDrive/Imagenes Proyecto/OCR/20230430_150424.jpg",
+            "manual_ocr": [
+                "a carnivore",
+                "Smilodon",
+                "The enormous canine teeth of the saber-toothed cat are its most obvious feature, but not all carnivores have them.",
+                "The distinguishing evolutionary feature of this group of mammals is found further back in Smilodon's mouth: a pair of scissorlike teeth on each side that are used for slicing meat.",
+                "skeleton Smilodon floridanus",
+                "(SMI-lo-don FLOR-id-anus)",
+                "(chisel tooth)",
+                "AMNH 14398, collected by University of California, 1914, Rancho La Brea, Los Angeles, California",
+                "Smilodon lived about 25,000 years ago, in the Pleistocene Epoch"
+            ],
+            "prompt_outputs": [
+                {
+                    "prompt": "read the text in the image",
+                    "output": "a sign that says ' smilodon ' on it"
+                },
+                {
+                    "prompt": "what text appears in this image",
+                    "output": "a sign that says ' smilodon ' on it"
+                }
+            ]
+        },
+        "20230511_133754.jpg": {
+            "image_path": "/content/drive/MyDrive/Imagenes Proyecto/OCR/20230511_133754.jpg",
+            "manual_ocr": [
+                "MEMORIA HISTÓRICA fcfm",
+                "Este edificio se construyó a fines de la década de 1920 para albergar la Escuela de Arquitectura, que entre 1900 y 1943 fue parte de la Facultad de Ciencias Físicas y Matemáticas. En 1944 la Escuela de Arquitectura se transformó en una Facultad independiente, continuando su funcionamiento en este lugar hasta su traslado a la comuna de Cerrillos en 1957. Ese mismo año se trasladó al primer piso del edificio el entonces Instituto de Geología, que a partir de 1965 se constituyó formalmente como uno de los departamentos académicos de la Facultad. Entre 1958 y 1974 una parte de la Facultad de Ciencias Químicas y Farmacéuticas ocupó el segundo piso del edificio."
+            ],
+            "prompt_outputs": [
+                {
+                    "prompt": "read the text in the image",
+                    "output": "a black and white informational plaque with the words memory historica on it."
+                },
+                {
+                    "prompt": "what text appears in this image",
+                    "output": "a black and white informational plaque with the words memory historica on it."
+                }
+            ]
+        },
+        "20230811_151805.jpg": {
+            "image_path": "/content/drive/MyDrive/Imagenes Proyecto/OCR/20230811_151805.jpg",
+            "manual_ocr": [
+                "Pequeños con grandes sentimientos",
+                "1990-2015",
+                "¿Has escuchado el dicho «ponerse en los zapatos del otro»? Esta frase nos habla de la empatía, o sea, de entender los sentimientos de las otras personas. Desde los años '80, las ilustraciones danesas nos invitan a viajar por el mundo interior de las y los niños,",
+                "enfocándose en las emociones que experimentan en sus distintas etapas. A partir de los años '90, se presta especial atención a las relaciones entre hermanos o amigos, a la visión que los niños tienen de sus padres y abuelos,",
+                "y a su desarrollo como adultos capaces de reconocer estilos de vida distintos a los suyos y de respetar las diferencias entre personas."
+            ],
+            "prompt_outputs": [
+                {
+                    "prompt": "read the text in the image",
+                    "output": "an orange and white sign that says queque con grans sentrals."
+                },
+                {
+                    "prompt": "what text appears in this image",
+                    "output": "an orange and white sign that says queque con grans sentrals."
+                }
+            ]
+        },
+        "20231108_090334.jpg": {
+            "image_path": "/content/drive/MyDrive/Imagenes Proyecto/OCR/20231108_090334.jpg",
+            "manual_ocr": [
+                "Mujeres en profesiones sanitarias. Chile, 1834-1950",
+                "Esta exposición fotográfica es el resultado de un proyecto que propuso investigar, reconocer y rescatar el rol de las mujeres en profesiones sanitarias hasta la primera mitad del siglo XX, a través de su aparición en los registros fotográficos del Museo Nacional de Medicina.",
+                "Esta muestra visibiliza parte de la historia de la profesionalización, el trabajo, y contribución social y científica femenina en el área de la salud. Las profesionales mujeres representadas aquí son: matronas, médicas, dentistas, farmacéuticas, enfermeras, visitadoras sociales, dietistas y técnico-laborantes.",
+                "Aparte de la exposición, el proyecto contempló la elaboración del libro Mujeres en profesiones sanitarias, 1834-1950, disponible al público online con libre acceso.",
+                "01. Estudiante de enfermería de la Universidad de Chile realizando educación prenatal durante su práctica en salud pública, c.1956.",
+                "Universidad de Chile 180 años",
+                "MUSEO NACIONAL DE MEDICINA"
+            ],
+            "prompt_outputs": [
+                {
+                    "prompt": "read the text in the image",
+                    "output": "an informational poster with a woman standing in front of it."
+                },
+                {
+                    "prompt": "what text appears in this image",
+                    "output": "an informational poster with a woman standing in front of it."
+                }
+            ]
+        },
+        "20240401_124930.jpg": {
+            "image_path": "/content/drive/MyDrive/Imagenes Proyecto/OCR/20240401_124930.jpg",
+            "manual_ocr": [
+                "MEMORIA HISTÓRICA fcfm",
+                "En este edificio funcionó el Laboratorio de Alta Tensión que en su inicio fue parte del Instituto de Investigaciones y Ensayes Eléctricos (IIEE), antecesor del actual Departamento de Ingeniería Eléctrica. Fue construido a principios de la década de 1950 con aportes de la Empresa Nacional de Electricidad (ENDESA), la que ocupaba con oficinas y laboratorios el tercer piso del edificio. En el segundo nivel se encontraba la dirección del Instituto, en tanto que otras de sus reparticiones funcionaban en el edificio de Física. El edificio de Alta Tensión fue remodelado para crear el Laboratorio de Electrotecnologías (2002) y albergar el Centro Avanzado de Tecnología para la Minería (AMTC, 2009)."
+            ],
+            "prompt_outputs": [
+                {
+                    "prompt": "read the text in the image",
+                    "output": "a black sign with the words memory history written on it."
+                },
+                {
+                    "prompt": "what text appears in this image",
+                    "output": "a black sign with the words memory history written on it."
+                }
+            ]
+        },
+        "20240603_120302.jpg": {
+            "image_path": "/content/drive/MyDrive/Imagenes Proyecto/OCR/20240603_120302.jpg",
+            "manual_ocr": [
+                "EL VOTO",
+                "UNA MANO QUE EN FORMA INDIVIDUAL Y SECRETA",
+                "DEPOSITA EL VOTO EN LA URNA.",
+                "ESA SERA LA VOZ DE LA GENTE, LA MAYOR RESPONSABILIDAD DE LOS",
+                "CIUDADANOS AL ELEGIR A SUS GOBERNANTES.",
+                "MARIO TORAL",
+                "2011"
+            ],
+            "prompt_outputs": [
+                {
+                    "prompt": "read the text in the image",
+                    "output": "a plaque with the name el vote on it"
+                },
+                {
+                    "prompt": "what text appears in this image",
+                    "output": "a plaque with the name el vote on it"
+                }
+            ]
+        },
+        "20250331_130243.jpg": {
+            "image_path": "/content/drive/MyDrive/Imagenes Proyecto/OCR/20250331_130243.jpg",
+            "manual_ocr": [
+                "fcfm",
+                "FACULTAD DE CIENCIAS FÍSICAS Y MATEMÁTICAS",
+                "UNIVERSIDAD DE CHILE",
+                "BEAUCHEF 850"
+            ],
+            "prompt_outputs": [
+                {
+                    "prompt": "read the text in the image",
+                    "output": "a black sign on a brick wall that says \" cfm \"."
+                },
+                {
+                    "prompt": "what text appears in this image",
+                    "output": "a black sign on a brick wall that says \" cfm \"."
+                }
+            ]
+        },
+        "20250819_074858.jpg": {
+            "image_path": "/content/drive/MyDrive/Imagenes Proyecto/OCR/20250819_074858.jpg",
+            "manual_ocr": [
+                "Cuartel \"Manuel Antonio Matta\"",
+                "La Sexta Compañía de Bomberos de Santiago,",
+                "\"Salvadores i Guardia de Propiedad\",",
+                "rinde homenaje a quien fuera su Director Fundador",
+                "y primer Director Honorario de la Institución",
+                "Don Manuel Antonio Matta Goyenechea",
+                "con motivo del Centésimo Sexagésimo aniversario",
+                "de Fundación.",
+                "Santiago, agosto de 2023"
+            ],
+            "prompt_outputs": [
+                {
+                    "prompt": "read the text in the image",
+                    "output": "a sign on a brick wall that says \" mantel antonio matra \"."
+                },
+                {
+                    "prompt": "what text appears in this image",
+                    "output": "a sign on a brick wall that says \" mantel antonio matra \"."
+                }
+            ]
+        },
+        "20250819_074905.jpg": {
+            "image_path": "/content/drive/MyDrive/Imagenes Proyecto/OCR/20250819_074905.jpg",
+            "manual_ocr": [
+                "DON JUAN WILLIAMS REBOLLEDO",
+                "1826 - 1910",
+                "EN ESTA CASA VIVIO Y MURIO",
+                "EL ILUSTRE ALMIRANTE, GLORIA",
+                "DE LA MARINA Y DE LA PATRIA.",
+                "VENCEDOR DE PAPUDO EN 1865",
+                "Y JEFE DE LA ESCUADRA EN LA",
+                "GUERRA DEL PACIFICO.",
+                "INSTITUTO DE",
+                "CONMEMORACION HISTORICA",
+                "1949"
+            ],
+            "prompt_outputs": [
+                {
+                    "prompt": "read the text in the image",
+                    "output": "a sign on a brick wall that says don maria williams reliado."
+                },
+                {
+                    "prompt": "what text appears in this image",
+                    "output": "a sign on a brick wall that says don maria williams reliado."
+                }
+            ]
+        },
+        "20250908_140611.jpg": {
+            "image_path": "/content/drive/MyDrive/Imagenes Proyecto/OCR/20250908_140611.jpg",
+            "manual_ocr": [
+                "CAMPUS BEAUCHEF:",
+                "UN PATRIMONIO QUE NOS PERTENECE A TODAS Y TODOS",
+                "¿Sabías que el campus Beauchef se encuentra en una Zona Típica reconocida por el Consejo de Monumentos Nacionales? Esta distinción reconoce su valor arquitectónico, urbanístico y simbólico, destacando su rol en la historia de la ingeniería en Chile.",
+                "El Edificio Escuela, con su notable inspiración \"Escuela de Beaux-Arts\" en su acceso principal —la entrada de la Universidad de Chile por Andrés Bello— fue construido a principios de la década de 1920. Su impresionante fachada a la entrada de la FCFM o la Iglesia de San Ignacio, reflejó en su época el auge de la ciencia y la ingeniería en Chile. Con su arquitectura de inspiración neoclásica francesa, a través de la cual se buscó replicar valores simbólicos occidentales en Chile, el campus Beauchef ha consolidado su lugar como símbolo de identidad institucional.",
+                "Este edificio representa la memoria viva de generaciones de estudiantes, académicas/os y funcionarias/os que han pasado por esta escuela. De eso, cuidarlo es también honrar nuestro propio legado.",
+                "Disfruta, celebra y cuida nuestro patrimonio",
+                "fcfm UNIVERSIDAD"
+            ],
+            "prompt_outputs": [
+                {
+                    "prompt": "read the text in the image",
+                    "output": "a red and white sign that says campus beaucheur."
+                },
+                {
+                    "prompt": "what text appears in this image",
+                    "output": "a red and white sign that says campus beaucheur."
+                }
+            ]
+        },
+        "20250908_154959.jpg": {
+            "image_path": "/content/drive/MyDrive/Imagenes Proyecto/OCR/20250908_154959.jpg",
+            "manual_ocr": [
+                "MEMORIA HISTÓRICA fcfm",
+                "Este edificio, construido para albergar el IDIEM, fue inaugurado el 19 de diciembre de 1952 en una ceremonia que contó con la presencia del Presidente de la República, Carlos Ibáñez del Campo, el Rector de la Universidad, Juvenal Hernández, el Decano de la Facultad de Ciencias Físicas y Matemáticas Reinaldo Harnecker y el Director del IDIEM Edmundo Thomas."
+            ],
+            "prompt_outputs": [
+                {
+                    "prompt": "read the text in the image",
+                    "output": "a black and white informational sign with the words memoria history."
+                },
+                {
+                    "prompt": "what text appears in this image",
+                    "output": "a black and white informational sign with the words memoria history."
+                }
+            ]
+        },
+        "20250908_155938.jpg": {
+            "image_path": "/content/drive/MyDrive/Imagenes Proyecto/OCR/20250908_155938.jpg",
+            "manual_ocr": [
+                "MEMORIA HISTÓRICA fcfm",
+                "En este lugar funcionó el primer estudio del Canal 9 de televisión de la Universidad de Chile, que inició sus transmisiones el 4 de noviembre de 1960. Este logro fue el resultado del trabajo desarrollado por tres jóvenes ingenieros eléctricos de la FCFM, Bartolomé Dezerega, Charles Haramoto y Rodolfo Baffico, quienes en octubre de 1959 lograron obtener la primera señal de televisión inalámbrica en Chile con equipos diseñados por ellos."
+            ],
+            "prompt_outputs": [
+                {
+                    "prompt": "read the text in the image",
+                    "output": "a black and white informational plaque with the words memoria history."
+                },
+                {
+                    "prompt": "what text appears in this image",
+                    "output": "a black and white informational plaque with the words memoria history."
+                }
+            ]
+        },
+        "20250908_160638.jpg": {
+            "image_path": "/content/drive/MyDrive/Imagenes Proyecto/OCR/20250908_160638.jpg",
+            "manual_ocr": [
+                "MEMORIA HISTÓRICA fcfm",
+                "Los medallones a la derecha e izquierda de la parte superior de esta entrada fueron instalados al momento de inaugurar el edificio en 1922, en recuerdo de los Decanos Diego A. Torres (1894 – 1907) y Domingo V. Santa María (1907 – 1909)."
+            ],
+            "prompt_outputs": [
+                {
+                    "prompt": "read the text in the image",
+                    "output": "a sign on a wall that says \" memoria history \" in spanish."
+                },
+                {
+                    "prompt": "what text appears in this image",
+                    "output": "a sign on a wall that says \" memoria history \" in spanish."
+                }
+            ]
+        }
+    }
+}

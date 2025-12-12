@@ -1,0 +1,19 @@
+{
+  "model": "BLIP2-OPT-2.7B",
+  "model_size_GB": 5.5,
+  "model_parameters": "2.7B",
+  "device": "cuda",
+  "ic_stats": {
+    "num_images": 15,
+    "avg_time_per_image": 0.3643730004628499,
+    "avg_memory_MB": 0.2950846354166667,
+    "total_time": 16.396785020828247
+  },
+  "ocr_stats": {
+    "num_images": 15,
+    "avg_time_per_image": 0.5548550287882487,
+    "avg_memory_MB": 0.29736328125,
+    "total_time": 16.64565086364746
+  },
+  "notes": "BLIP-2 OPT 2.7B is optimized for image captioning, not OCR. OCR performance will be limited."
+}
